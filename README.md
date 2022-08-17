@@ -1,4 +1,4 @@
-# Practicas de Orientado a Objetos UABC ft Piwi
+# Practicas de Orientado a Objetos UABC
 
 Buenos dias
 
@@ -9,5 +9,7 @@ Las practicas estan enumeradas, y dentro de cada una hay tres carpetas, una de c
 ## Para ejecutar los proyectos en cada lenguaje
 
 En caso de que sea Java abrimos el proyecto con Intellij IDEA
+
 Para C++ se abren los proyecto con Visual Studio 2019+
+
 Y para Python 3 Se puede usar nativamente con la terminal de powershell o bash
